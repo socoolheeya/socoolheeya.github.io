@@ -22,8 +22,8 @@ description: Just be happy
 navbar-links:
   About Me: "aboutme"
   Language:
-    - Javascript: "http://socoolheeya.github.io/javascript"
-    - Java: "http://socoolheeya.github.io/java"
+    - Javascript: "javascript"
+    - Java: "java"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "lwh0102@gmail.com"
-  facebook: LeeWonHee
+  facebook: wonhee.lee.56
   github: socoolheeya
-  twitter: socoolheeya
+  twitter: lwh0102
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
